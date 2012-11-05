@@ -34,22 +34,22 @@ to add into an eclipse project's build path:
 7. add the folder that corresponds to your operating system in the "native" folder of your downloaded lwjgl folder to the "Native library location"
 8. (optional) add the javadocs:
 
-	* lwjgl.jar - [http://lwjgl.org/javadoc/](http://lwjgl.org/javadoc/)
-	* lwjgl_util.jar - [http://lwjgl.org/javadoc/](http://lwjgl.org/javadoc/)
+> * lwjgl.jar - [http://lwjgl.org/javadoc/](http://lwjgl.org/javadoc/)
+> * lwjgl_util.jar - [http://lwjgl.org/javadoc/](http://lwjgl.org/javadoc/)
 
 ### 5. add and configure slick library
 
 1. repeat this process in a new user library, "Slick" with the "slick.jar" and "slick-util.jar" files (no need to deal with native libraries)
 2. (optional) add the javadocs:
 
-	* slick.jar - [http://slick.cokeandcode.com/javadoc/](http://slick.cokeandcode.com/javadoc/)
-	* slick-util.jar - [http://slick.cokeandcode.com/javadoc-util/](http://slick.cokeandcode.com/javadoc-util/)
+> * slick.jar - [http://slick.cokeandcode.com/javadoc/](http://slick.cokeandcode.com/javadoc/)
+> * slick-util.jar - [http://slick.cokeandcode.com/javadoc-util/](http://slick.cokeandcode.com/javadoc-util/)
 
 ### 6. add to current project's build path
 
 1. click "Ok" to close the user library preferences window
 2. select both new libraries ("LWJGL" and "Slick") and click finish
 
-	* they should both appear in your "Java Build Path" window in the "Libraries" tab.
+> * they should both appear in your "Java Build Path" window in the "Libraries" tab.
 
 * (note) if you want to add these libraries in another project, you don't need to re-add the two libraries: just check them off when you first reach the "Add Library" window
