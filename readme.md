@@ -45,7 +45,7 @@ to add into an eclipse project's build path:
 > * slick.jar - [http://slick.cokeandcode.com/javadoc/](http://slick.cokeandcode.com/javadoc/)
 > * slick-util.jar - [http://slick.cokeandcode.com/javadoc-util/](http://slick.cokeandcode.com/javadoc-util/)
 
-### 6. add to current project's build path
+### 6. add new libraries to current project's build path
 
 1. click "Ok" to close the user library preferences window
 2. select both new libraries ("LWJGL" and "Slick") and click finish
